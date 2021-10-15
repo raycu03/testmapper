@@ -1,0 +1,8 @@
+com\mapper\testmapper\controller\Perro.class
+com\mapper\testmapper\TestmapperApplication.class
+com\mapper\testmapper\controller\Perro$PerroBuilder.class
+com\mapper\testmapper\mapperTest\MapperTest.class
+com\mapper\testmapper\controller\PerroDto$PerroDtoBuilder.class
+com\mapper\testmapper\mapperTest\MapperTestImpl.class
+com\mapper\testmapper\controller\MapperControllerTest.class
+com\mapper\testmapper\controller\PerroDto.class
